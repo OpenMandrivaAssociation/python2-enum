@@ -13,7 +13,7 @@ Source0:        https://pypi.python.org/packages/source/e/%{pyname}/%{pyname}-%{
 BuildArch:      noarch
 BuildRequires:  pkgconfig(python2)
 BuildRequires:  pythonegg(setuptools)
-
+BuildRequires:	python2-pkg-resources
 
 %description
 Python 3.4 Enum backported to 2.x
