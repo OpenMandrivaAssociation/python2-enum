@@ -3,7 +3,7 @@
 
 Name:           python2-enum
 Version:        1.1.6
-Release:        2
+Release:        3
 Summary:        Port of the python 3.4+ enum module to 2.6+
 Group:          Development/Python
 License:        Python
